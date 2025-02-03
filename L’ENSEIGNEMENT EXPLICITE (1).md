@@ -5,6 +5,7 @@ gestionGrosMots: true
 rechercheContenu: false
 ---
 <u>Bienvenue sur votre ChatBot à propos de l'enseignement explicite</u>
+**Créé par : A. ZANOUNY - CONSULTANT en ÉDUCATION**
 
 # L’ENSEIGNEMENT EXPLICITE
 
