@@ -137,9 +137,10 @@ En somme, plus les apprenants ont une maîtrise de l’objet d’apprentissage, 
 
 ## Référence
 ::: info
+Référence :::
 Ce document est réalisé par A. ZANOUNY - Janvier 2025
 À partir du document : ***L’enseignement explicite : de quoi s’agit-il, pourquoi ça marche et dans quelles conditions — CSEN, juin 2022***
 Texte rédigé par Pascal Bressoux, professeur à l’université Grenoble Alpes
-:::
+
 - - - 
 3. [Retour au message](Initial)
