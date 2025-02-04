@@ -2,6 +2,7 @@ clavier: true
 gestionGrosMots: true
 rechercheContenu: false
 math: true
+# addOns: latex
 ---
 <u>Bienvenue sur votre ChatBot à propos de l'enseignement explicite</u>
 **Créé par : A. ZANOUNY - CONSULTANT en ÉDUCATION**
