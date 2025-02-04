@@ -1,5 +1,4 @@
-
-
+# addOns: latex
 clavier: true
 gestionGrosMots: true
 rechercheContenu: false
@@ -17,16 +16,18 @@ Je suis un chatbot programmé pour vous aider à comprendre l'enseignement expli
 - **ET DANS QUELLES CONDITIONS ?**
   
 
- 
+
 1. [J'aimerais savoir la définition de l'enseignement explicite](Définition)
-2. [Quelle confusion autour de l'enseignement explicite](Confusion)
-3. [J'aimerais savoir les fondement de l'EE?](Fondements)
-4. [Quelle démarche?](Démarche)
-5. [Quels apports scientifique pour l'enseignement scientifique](Apports)
-6. [Ne doit-on enseigner explicitement que des contenus disciplinaires ?](Disciplines)
-7. [Dans quels cas utiliser l'enseignement explicite?](Utilisation)
-8. [ce qu'il faut retenir ?](Important)
-9. [Et, si je me teste](Test)
+2. [ Charchons la somme](Somme)
+3. [Quelle confusion autour de l'enseignement explicite](Confusion)
+4. [J'aimerais savoir les fondement de l'EE?](Fondements)
+5. [Quelle démarche?](Démarche)
+6. [Quels apports scientifique pour l'enseignement scientifique](Apports)
+7. [Ne doit-on enseigner explicitement que des contenus disciplinaires ?](Disciplines)
+8. [Dans quels cas utiliser l'enseignement explicite?](Utilisation)
+9. [ce qu'il faut retenir ?](Important)
+10. [Et, si je me teste](Test)
+
 
 
 ## Définition
@@ -34,6 +35,39 @@ Je suis un chatbot programmé pour vous aider à comprendre l'enseignement expli
 L’enseignement explicite est issu des recherches effectuées sur les pratiques de l’enseignement efficace. Ce courant de recherche s’est donné pour objectif d’identifier les interventions pédagogiques les plus efficaces pour favoriser l’apprentissage des élèves ayant un trouble d’apprentissage dans les matières de base telles que la lecture, l’écriture et les mathématiques. L’enseignement explicite est la formalisation d’une stratégie d’enseignement structurée en étapes séquencées et fortement intégrées.Selon cette approche, l’enseignant, de manière intentionnelle, cherche à soutenir l’apprentissage des élèves ayant un trouble d’apprentissage par une série d’actions au cours de trois grands moments : 1) la préparation de la leçon, 2) l’interaction avec les élèves ayant un trouble d’apprentissage au cours de l’enseignement, 3) la consolidation de l’apprentissage  (Gauthier, Bissonnette et Richard, 2013)
 
 ![Enseignement explicite](https://www.taalecole.ca/wp-content/uploads/2014/04/image-infographie.jpg)
+
+## Somme
+Test de trois opérations d'addition
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+\section*{Test d'addition}
+Résolvez les opérations suivantes et entrez votre réponse :
+\vspace{0.5cm}
+1. $5 + 3 = $ \_\_\_\_\_\_
+\vspace{0.5cm}
+2. $12 + 7 = $ \_\_\_\_\_\_
+\vspace{0.5cm}
+3. $9 + 6 = $ \_\_\_\_\_\_
+\vspace{0.5cm}
+\section*{Vérification des réponses}
+\newcommand{\checkAnswer}[2]{%
+\ifnum#1=#2
+Correct
+\else
+Incorrect
+\fi
+}
+\noindent Réponses:
+\vspace{0.5cm}
+1. $5 + 3 = 8$: \checkAnswer{8}{8}
+\vspace{0.5cm}
+2. $12 + 7 = 19$: \checkAnswer{19}{19}
+\vspace{0.5cm}
+3. $9 + 6 = 15$: \checkAnswer{15}{15}
+\end{document}
+
+![image](https://github.com/user-attachments/assets/ddf38025-5e74-4cbe-96a9-e195b2c5045d)
 
 ## Confusion
 
