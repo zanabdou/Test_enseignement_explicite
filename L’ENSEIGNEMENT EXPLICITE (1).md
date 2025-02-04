@@ -17,51 +17,16 @@ Je suis un chatbot programmé pour vous aider à comprendre l'enseignement expli
 - **ET DANS QUELLES CONDITIONS ?**
   
 
-
-1.[Je troune la somme] (somme) 
-2. [J'aimerais savoir la définition de l'enseignement explicite](Définition)
-3. [Quelle confusion autour de l'enseignement explicite](Confusion)
-4. [J'aimerais savoir les fondement de l'EE?](Fondements)
-5. [Quelle démarche?](Démarche)
-6. [Quels apports scientifique pour l'enseignement scientifique](Apports)
-7. [Ne doit-on enseigner explicitement que des contenus disciplinaires ?](Disciplines)
-8. [Dans quels cas utiliser l'enseignement explicite?](Utilisation)
-9. [ce qu'il faut retenir ?](Important)
-10. [Et, si je me teste](Test)
-
-## somme
-
-Test de trois opérations d'addition
-\documentclass{article}
-\usepackage{amsmath}
-\begin{document}
-\section*{Test d'addition}
-Résolvez les opérations suivantes et entrez votre réponse :
-\vspace{0.5cm}
-1. $5 + 3 = $ \_\_\_\_\_\_
-\vspace{0.5cm}
-2. $12 + 7 = $ \_\_\_\_\_\_
-\vspace{0.5cm}
-3. $9 + 6 = $ \_\_\_\_\_\_
-\vspace{0.5cm}
-\section*{Vérification des réponses}
-\newcommand{\checkAnswer}[2]{%
-\ifnum#1=#2
-Correct
-\else
-Incorrect
-\fi
-}
-\noindent Réponses:
-\vspace{0.5cm}
-1. $5 + 3 = 8$: \checkAnswer{8}{8}
-\vspace{0.5cm}
-2. $12 + 7 = 19$: \checkAnswer{19}{19}
-\vspace{0.5cm}
-3. $9 + 6 = 15$: \checkAnswer{15}{15}
-\end{document}
-
-
+ 
+1. [J'aimerais savoir la définition de l'enseignement explicite](Définition)
+2. [Quelle confusion autour de l'enseignement explicite](Confusion)
+3. [J'aimerais savoir les fondement de l'EE?](Fondements)
+4. [Quelle démarche?](Démarche)
+5. [Quels apports scientifique pour l'enseignement scientifique](Apports)
+6. [Ne doit-on enseigner explicitement que des contenus disciplinaires ?](Disciplines)
+7. [Dans quels cas utiliser l'enseignement explicite?](Utilisation)
+8. [ce qu'il faut retenir ?](Important)
+9. [Et, si je me teste](Test)
 
 
 ## Définition
