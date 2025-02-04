@@ -35,7 +35,7 @@ L’enseignement explicite est issu des recherches effectuées sur les pratiques
 
 ![Enseignement explicite](https://www.taalecole.ca/wp-content/uploads/2014/04/image-infographie.jpg)
 
-![image](https://github.com/user-attachments/assets/ddf38025-5e74-4cbe-96a9-e195b2c5045d)
+
 
 ## Confusion
 
@@ -62,7 +62,6 @@ Il s’agit de repérer préalablement les étapes nécessaires à l’acquisiti
 1. [La première phase est l’ouverture de la séance](Ouverture)
 2. [La deuxième phase, dite de « modelage»](Modelage)
 3. [La troisième phase est celle de pratique guidée](Guidage)
-
 5. [La quatrième phase, la pratique autonome](Autonomie)
 6. [La cinquième phase est celle de clôture](Clôture)
 7. [Ce que je retiens](Retenir)
