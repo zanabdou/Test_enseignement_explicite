@@ -132,7 +132,7 @@ En somme, plus les apprenants ont une maîtrise de l’objet d’apprentissage, 
 
 ## Test
 
-<div style="width:100%;display:flex;flex-direction:column;gap:8px;min-height:635px;"><iframe src="https://quizizz.com/embed/quiz/679fef3292295f09dc23f483" title="Quiz sur l'enseignement explicite - Quizizz" style="flex:1;" frameBorder="0" allowfullscreen></iframe><a href="https://quizizz.com/admin?source=embedFrame" target="_blank">Explore more at Quizizz.</a></div>
+<div style="width:100%;display:flex;flex-direction:column;gap:8px;min-height:635px;"><iframe src="https://quizizz.com/embed/quiz/679fef3292295f09dc23f483" title="Quiz sur l'enseignement explicite - Quizizz" style="flex:1;" frameBorder="0" allowfullscreen></iframe><a href="https://quizizz.com/admin?source=embedFrame" target="_blank">.</a></div>
 
 1. [ Travail réalisé par](Référence)
 
