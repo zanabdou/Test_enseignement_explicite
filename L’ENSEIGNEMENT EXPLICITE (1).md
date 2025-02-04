@@ -1,4 +1,4 @@
-# addOns: latex
+
 clavier: true
 gestionGrosMots: true
 rechercheContenu: false
