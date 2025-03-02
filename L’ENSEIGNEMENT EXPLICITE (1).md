@@ -7,7 +7,7 @@ math: true
 <u>Bienvenue sur votre ChatBot à propos de l'enseignement explicite</u>
 **Créé par : A. ZANOUNY - CONSULTANT en ÉDUCATION**
 
-# <font color=Blue>L’ENSEIGNEMENT EXPLICITE</font>
+# <font color=Red>L’ENSEIGNEMENT EXPLICITE</font>
 
 Je suis un chatbot programmé pour vous aider à comprendre l'enseignement explicite
 
